@@ -65,7 +65,7 @@ As with any analysis, there were a few challenges that were encountered.
 ###### Conclusions made for Outcomes based on Launch date
 
 - The best time to launch a theater campaign is in either May or June. The data suggests that May exceeds expectations of outcomes, while June meets the outcome expected of 100% funding.
-- December is the month with the least amount of campaigns. A campaign launched in December had 49% chance of succeeding
+- December is the month with the least number of campaigns. A campaign launched in December had 49% chance of succeeding
 
 ###### Conclusions made for Outcomes based on Goal
 
